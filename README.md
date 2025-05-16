@@ -1,0 +1,1 @@
+This project builds a smarter Minesweeper solver using constraint satisfaction and Bayesian reasoning. The goal is to reduce random guessing and improve accuracy. The AI handles both logic-based and uncertain situations to solve puzzles more reliably.
